@@ -1,0 +1,9 @@
+c:\users\hp\documents\visual studio 2015\Projects\stokTakip\stokTakip\bin\Debug\stokTakip.exe.config
+c:\users\hp\documents\visual studio 2015\Projects\stokTakip\stokTakip\bin\Debug\stokTakip.exe
+c:\users\hp\documents\visual studio 2015\Projects\stokTakip\stokTakip\bin\Debug\stokTakip.pdb
+c:\users\hp\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.csprojResolveAssemblyReference.cache
+c:\users\hp\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.Form1.resources
+c:\users\hp\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.Properties.Resources.resources
+c:\users\hp\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.csproj.GenerateResource.Cache
+c:\users\hp\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.exe
+c:\users\hp\documents\visual studio 2015\Projects\stokTakip\stokTakip\obj\Debug\stokTakip.pdb
